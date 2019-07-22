@@ -1,4 +1,4 @@
-# ordered_search_search_engine
+# ordered_search_engine
 
 The Feeling Lucky question assumed it was enough to find the best-ranked page for a given query. For most queries, though, we don't just want the best page (according to the page ranking algorithm), we want a list of many pages that match the query, ordered from the most likely to be useful to the least likely.
 
